@@ -1,13 +1,21 @@
 # explore-java
-This repository is to maintian import java concepts with clear examples.
-Here, I am covering below concepts
+This repository is to maintain important java concepts with clear examples.
+Here, I have covered below concepts,
 1. Data Types
 2. Strings
 3. Inheritance
 4. Constructor Chaining
-6. Arrays
-7. Singleton Classes
-8. Recurrcive Functions
-9. Inheritance
-10. Abstract Classes
-11. Encapsulations
+5. Singleton Classes
+6. Abstract Classes
+7. Interfaces
+8. Encapsulations
+9. Arrays 
+10. Collections
+    1. ArrayList
+    2. LinkedSet
+    3. HashSet
+    4. LinkedHashSet
+    5. Hashmap
+    6. LinkedHashmap
+    7. TreeMap
+11. Recursive Functions
