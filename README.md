@@ -18,4 +18,9 @@ Here, I have covered below concepts,
     5. Hashmap
     6. LinkedHashmap
     7. TreeMap
+    8. enum
+    9. EnumSet
+    10. EnumMap
+    11. Properties
+    12. Collection Class
 11. Recursive Functions
